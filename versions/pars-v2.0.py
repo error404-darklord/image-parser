@@ -4,7 +4,7 @@ from bs4 import BeautifulSoup
 from urllib.parse import urljoin, urlparse
 
 # === НАСТРОЙКИ ===
-save_folder = "/storage/emulated/0/P.H.H.D"  # 👉 Папка на телефоне
+save_folder = ""  # 👉 Папка на телефоне
 os.makedirs(save_folder, exist_ok=True)
 
 # === ВВОД КОЛИЧЕСТВА ПРОЦЕССОВ ===
