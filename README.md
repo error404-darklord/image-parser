@@ -63,14 +63,14 @@ pkg install git python
 git clone https://github.com/error404-darklord/image-parser.git
 cd image-parser
 pip install requests beautifulsoup4 colorama
-python pars-4.0.py
+python pars-4.0.py (или версию которую хочешь)
 ```
 ### WINDOWS
 ```
 git clone https://github.com/error404-darklord/image-parser.git
 cd image-parser
 pip install requests beautifulsoup4 colorama
-python pars-4.0.py
+python pars-4.0.py (или версию которую хочешь)
 ```
 ### UBUNTU / DEBIAN
 ```
@@ -79,7 +79,7 @@ sudo apt install git python3 python3-pip
 git clone https://github.com/error404-darklord/image-parser.git
 cd image-parser
 pip3 install requests beautifulsoup4 colorama
-python3 pars-4.0.py
+python3 pars-4.0.py (или версию которую хочешь)
 ```
 # благодарность
 благодарю за то что прочитал этот репозиторий, надеюсь мой инструмент тебе понравится обязательно поставь лайк если ты сдесь из тик-тока, и спасибо тем хто пришёл из других сот сетей!
